@@ -1,0 +1,24 @@
+{
+    "username": "",
+    "password": "",
+    "ipaddress": "",
+    "database": "",
+
+    "prefix": ".",
+    "shardCount": 2,
+    "ownerid": "",
+    "token": "",
+
+    "spotifyClientId": "",
+    "spotify": "",
+
+    "lavalink-host": "",
+    "lavalink-pwd": "",
+
+    "environment": "testing",
+    "restPort": 8181,
+    "unLoggedThreads": [
+        "OkHttp Dispatcher"
+    ],
+    "dbltoken": ""
+}

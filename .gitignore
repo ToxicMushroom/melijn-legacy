@@ -16,8 +16,3 @@ out/
 gradlew
 
 *.iml
-
-src/main/java/me/melijn/jda/utils/Private.java
-src/main/resources/youtube.properties
-
-config.json
